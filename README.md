@@ -30,5 +30,5 @@
 ### 📢 Channel:
 <!-- Стильный бейдж для ТГ-канала -->
 <a href="https://t.me/freecod1ng" target="_blank">
-  <img src="https://t.me/freecod1ng" alt="Telegram Channel" />
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/960px-Telegram_2019_Logo.svg.png?utm_source=ru.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" vspace="10" hspace="10" width="50" height="50" alt="Telegram Channel" />
 </a>
